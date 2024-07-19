@@ -1,0 +1,70 @@
+.projectdetailpage{
+    width: 100%;
+    display: flex;
+    color: white; 
+    height: 99vh; 
+    overflow-y: auto;
+}
+.leftsideprojectdetail{
+    flex: 0.3;
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rigthsideprojectdetails{
+flex: 0.7;
+height: 99vh;
+}
+.projectdetailrightside{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+}
+.backtohome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin-bottom: 10px;
+    color: yellow;
+}
+.projectimgdetail{
+    width: 100%;   
+}
+.projectimg{
+    width: 95%;
+    margin-top: 10%;
+}
+.projectlink{
+    display: flex;
+    font-size: 20px;
+    margin: 20px;
+}
+.projectinkgrey{
+color: #999999;}
+.questionblock{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+/*-------------------------------------------------------*/
+@media screen and
+   ( max-width: 1140px){
+
+.projectdetailpage{
+    
+        flex-direction: column;
+        padding: 50px;
+        box-sizing: border-box;
+    }
+.leftsideprojectdetail{
+    top: 5%;
+    width: 100%;
+    position: relative;
+    margin-bottom: 20px;
+}
+.rigthsideprojectdetails{
+    width: 100%;
+    border-radius: 50%;
+}
+   }

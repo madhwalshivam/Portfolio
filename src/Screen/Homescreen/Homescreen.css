@@ -1,0 +1,328 @@
+.Homescreen{
+    width: 100%;
+    display: flex;
+    color: white; 
+    height: 99vh; 
+    overflow-y: auto;
+}
+.homeleftside{
+    flex: 0.3;
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homerightside{
+    flex: 0.7;
+    height: 99vh;
+}
+.leftprofile{
+    width: 30%;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profileimg{
+    width: 60%;
+    border-radius: 50%;  
+}
+.sociallink{
+    display: flex;
+    margin-top: 10px;
+    width: 60%;
+    justify-content: space-between;
+}
+.instagram{
+    font-size: 55px;
+    &:hover{
+        color:yellow;
+        cursor: pointer;
+    }
+}
+.hiremebtn{
+    width:60%;
+    margin-top:20px;
+    padding: 16px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    &:hover{
+        color:yellow;
+        border-color: yellow;
+        cursor: pointer;
+    }
+}
+.homeintro{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    
+}
+.titleportfolio{
+    font-size: 24px;
+    color: yellow;
+    letter-spacing: 1px;
+
+}
+.homebrefintro{
+    font-size: 32px;
+
+}
+.hello{
+    color: yellow;
+    letter-spacing: 1px;
+}
+.content{
+    margin-top:35px;
+    font-size: 18px;
+    color: #999999;
+    letter-spacing: 1px;
+  
+}
+.homeintroiconsdetail{
+    margin-top: 35px;
+    display: flex;
+    width:90% ;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.homeiconsdetailblock{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+    
+.locationblock{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.homecountblock{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    
+}
+.blockdivhome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.numberhomepage{
+    font-size: 100px;
+    color: yellow;
+}
+.experiencedetail{
+    font-size: 20px;
+    color: yellow;
+}
+/*------------------------------------------------------------*/
+.educationblock{
+    margin-top: 110px;
+    width:100%;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.educationtitle{
+    font-size: 24px;
+    color: yellow;
+}
+.educationcontentdesc{
+    font-size: 40px;
+}
+.educationdetail{
+    margin-top: 30px;
+}
+.education{
+    color: yellow;
+
+}
+.coursemonth{
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #999999;
+}
+.coursename{
+    font-size: 24px;
+}
+.skillcomp{
+    margin-top: 20px;
+    width: 95%;
+    display: flex;
+    gap: 20px;
+}
+.skillcard{
+    width: 180px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(29,29,29);
+
+}
+.cardtitle{
+    font-size: 18px;
+    color: #999999;
+}
+.skilltechnology{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    gap: 10px;
+}
+.skilltechname{
+    padding: 5px;
+    width: fit-content;
+    border: 1px solid yellow;
+    border-radius: 5px;
+}
+/*----------------------------------------------*/
+.imageblock{
+    width: 95%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.netflix{
+    width: 100%;
+    margin-top: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    opacity: 1;
+
+}
+.projectnamehome{
+     position: absolute;
+     top: 40%;
+     right: 50%;
+     color: yellow;
+     font-size: 24px;
+     font-weight: 600;
+     opacity: 0;
+
+}
+.imageblock:hover .netflix{
+    opacity: 0.4;
+}
+.imageblock:hover .projectnamehome{
+    opacity: 1;
+}
+/*--------------------------------------------*/
+.contactform{
+    width: 80%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.inputfieldtext{
+ background-color: rgba(17,17,17,0.3);
+ height: 45px;
+ border: none;
+ padding: 5px 15px;
+ margin-top: 10px;
+ font-size: 18px;
+ font-weight: 600;
+ color: white;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+&:focus{
+    outline: none;
+}
+&::placeholder{
+    color: #999999;
+    font-size: 16px;
+  }
+}
+.inputfieldtextmessage{
+    background-color: rgba(17,17,17,0.3) ;
+    height: 50%;
+    border: none;
+    padding: 5px 15px;
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    &:focus{
+        outline: none;
+    }
+    &::placeholder{
+        color: #999999;
+        font-size: 16px;
+
+  }
+}
+.submitcontext{
+display: flex;
+margin-top: 20px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 18px;
+font-weight: 600px;
+text-decoration: none;
+color: yellow;
+cursor: pointer;
+border-radius: 5px;
+background-color: rgb(29,29,29);
+border: 1px solid rgb(29,29,29);
+height: 45px;
+width: 100%;
+margin-bottom: 30px;
+&:hover{
+    border: 1px solid yellow;
+
+}
+}
+/*---------------------------------------------------------*/
+@media screen and
+   ( max-width: 1140px){
+
+    .Homescreen{
+        flex-direction: column;
+        padding: 50px;
+        box-sizing: border-box;
+    }
+.leftprofile{
+    top: 10%;
+    width: 100%;
+    position: relative;
+    margin-bottom: 30px;
+}
+.profileimg{
+    width: 40%;
+    border-radius: 50%;
+}
+.homeintroiconsdetail{
+    display: flex;
+    flex-direction: column;
+}
+.homeiconsdetailblock{
+    margin-top: 20px;
+}
+.homecountblock{
+    display: flex;
+    flex-direction: column;
+}
+.educationcontentdesc{
+    width: 95%;
+    font-size: 30px;
+}
+.educationtitle{
+    font-size: 20px;
+}
+.skillcomp{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skillcard{
+    width: 50%;
+}
+.contactform{
+    width: 100%;
+}
+   }

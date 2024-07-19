@@ -1,0 +1,54 @@
+{
+    
+    "pageTitle":"I'm Shivam Madhwal, MERN Full Stack Developer (WEB/Android)",
+    "description":"Innovative MERN Stack Developer in building scalable and responsive web applications. Proficient in utilizing MongoDB, Express, React, and Node.js to deliver end-to-end solutions that enhance user experiences. Demonstrated ability to lead development projects from conception through deployment with a focus on modern, efficient code and user-centric design.",
+    "location":"Vaishali, Ghaziabad",
+    "phone":"+91 8376006991",
+    "mail":"madhwalshivam08@gmail.com",
+    "yearOfExp":"2+",
+    "projects":"3+",
+    "leetcodeRating":"4/5",
+    "career":[
+        {
+            "interval":"July 2024 - Present",
+            "role":"@Vinayak private limited(Internship) : MERN FULL STACK"
+        },
+        {
+            "interval":"2022",
+            "role":"CLASS-XII"
+        },
+        {
+            "interval":"2022- present",
+            "role":"Bachelor in Computer Application(BCA)"
+        }
+    ],
+    "skills":[
+        {
+            "skillName":"Frontend",
+            "skill":["React JS","HTML","CSS","JavaScript","Git","Material UI"]
+        },
+        {
+            "skillName":"Backend",
+            "skill":["Node JS","Express JS"]
+        },
+        {
+            "skillName":"DataBase",
+            "skill":["MonngoDB"]
+        }
+    ],
+    "project":[
+        {
+            "id":"0",
+            "name":"Netflix-Clone",
+            "imageLink":"https://res.cloudinary.com/drvjettpz/image/upload/v1721314111/b88eeykbe0cdfyqn3lt4.png"
+        
+        },   
+     {
+            "id":"1",
+            "name":"instagram-Clone",
+            "imageLink":"https://res.cloudinary.com/drvjettpz/image/upload/v1721316114/rt5snwfi3gohwhbs9psu.png"
+     }
+        
+    ]
+    
+    }
