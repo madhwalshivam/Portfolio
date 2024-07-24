@@ -2,44 +2,60 @@
     "projects":[
         {
             "name":"Netflix Clone App",
-            "desc":"I have created this beautifull Netflix Clone App only Frontent from react i developed with the help of tmdb.api . I got api for multiple category movie data . It was very helpfull . So just created that and you can see the images and videos which i have provided for the reference of my work.",
+            "desc":"I have created this beautifull Netflix Clone App only Frontent Development. It was very helpfull . So just created that and you can see the images and videos which i have provided for the reference of my work.",
             "mainImg":"https://res.cloudinary.com/mashhuudanny/image/upload/v1714414552/k29iikzd2zsamquhudnv.png",
             "projectLink":"/",
             "technology":[
                 {
                     "skillName":"Frontend",
-                    "skill":["React JS","HTML","CSS","JavaScript","Material UI"]
+                    "skill":["HTML","CSS","JavaScript"]
                 }
             ],
             "difficulties":{
-                "imgLink":"https://res.cloudinary.com/mashhuudanny/image/upload/v1714496608/kgkyuolphow4aqr5bqay.png",
                 "desc":"I have faced difficulties in some css stylings but i took help from google and where ever i got stuck i google it and got my solution."
             },
             "learn":{
-                    "imgLink":"...",
-                    "desc":"I have a learn a lot of things. Learned how to handle API Call and what the test available in market"
+                    "desc":"I have a learn a lot of things. Learned how to  use the animation and transition"
             }
 
         },
         {
-            "name":"Instagram clone",
-            "desc":"I have created this beautifull Instagram Clone App with Frontent from react .I developed with the help of instagram api website. I got api for multiple category data . It was very helpfull . So just created that and you can see the images and videos which i have provided for the reference of my work.",
+            "name":"Myntra clone",
+            "desc":"I have created this beautifull Myntra App with Frontent from Html and Css.I developed with the help of Myntra website images. So just created that and you can see the images and videos which i have provided for the reference of my work.",
 
-            "mainImg":"https://res.cloudinary.com/drvjettpz/image/upload/v1721333019/zljfpki2ycewrhuhtora.png",
+            "mainImg":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721836763/pfgznyk3hfkar5dobjyx.png",
             "projectLink":"/",
             "technology":[
                 {
                     "skillName":"Frontend",
-                    "skill":["HTML","CSS","JavaScript","React JS"]
+                    "skill":["HTML","CSS"]
                 }
             ],
             "difficulties":{
-                "imgLink":"https://res.cloudinary.com/drvjettpz/image/upload/v1721333019/zljfpki2ycewrhuhtora.png",
                 "desc":"I have faced difficulties in some css stylings but i took help from google and where ever i got stuck i google it and got my solution."
             },
             "learn":{
-                "imgLink":"https://res.cloudinary.com/drvjettpz/image/upload/v1721333019/zljfpki2ycewrhuhtora.png",
-                "desc":"I have a learn a lot of things. Learned how to handle API Call and what the test available in market"
+                "desc":"I have a learn a lot of things. Learned how to fix the footer."
+            }
+
+        },
+        {
+            "name":"Weather App",
+            "desc":"I have created this beautifull Weather App with Frontent from Html & Css and java script. So just created that and you can see the weather condition which i have provided for the reference of my work.",
+
+            "mainImg":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721838415/npqd49d6nyd5gr8h9nep.webp",
+            "projectLink":"/",
+            "technology":[
+                {
+                    "skillName":"Frontend",
+                    "skill":["HTML","CSS","JavaScript","Rapid API"]
+                }
+            ],
+            "difficulties":{
+                "desc":"I have faced difficulties in some css stylings but i took help from google and where ever i got stuck i google it and got my solution."
+            },
+            "learn":{
+                "desc":"I have a learn a lot of things. Learned how to use the rapid api for getting the current weather condition in differant areas."
             }
 
         }

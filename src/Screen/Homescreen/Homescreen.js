@@ -51,15 +51,15 @@ const Homescreen = () => {
             <div className="homecountblock">
               <div className="blockdivhome">
                 <div className="numberhomepage">{data?.yearOfExp}</div>
-                <div className="experiencedetail"> Year Of Experience</div>
+                <div className="experiencedetail"> Month Of Experience</div>
               </div>
               <div className="blockdivhome">
                 <div className="numberhomepage">{data?.projects}</div>
                 <div className="experiencedetail">Completed Projects</div>
               </div>
               <div className="blockdivhome">
-                <div className="numberhomepage">{data?.leetcodeRating}</div>
-                <div className="experiencedetail">Rating in leetcode</div>
+                <div className="numberhomepage">{data?.Certificates}</div>
+                <div className="experiencedetail">Certificate</div>
               </div>
             </div>
           </div>

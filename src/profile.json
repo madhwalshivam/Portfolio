@@ -5,9 +5,9 @@
     "location":"Vaishali, Ghaziabad",
     "phone":"+91 8376006991",
     "mail":"madhwalshivam08@gmail.com",
-    "yearOfExp":"2+",
-    "projects":"3+",
-    "leetcodeRating":"4/5",
+    "yearOfExp":"3",
+    "projects":"4+",
+    "Certificates":"3",
     "career":[
         {
             "interval":"July 2024 - Present",
@@ -25,15 +25,15 @@
     "skills":[
         {
             "skillName":"Frontend",
-            "skill":["React JS","HTML","CSS","JavaScript","Git","Material UI"]
+            "skill":["React JS","HTML","CSS","Material UI","Tailwind CSS","JavaScript","Git","GitHUB"]
         },
         {
             "skillName":"Backend",
-            "skill":["Node JS","Express JS"]
+            "skill":["Node JS","Express JS","Rest API"]
         },
         {
             "skillName":"DataBase",
-            "skill":["MonngoDB"]
+            "skill":["MonngoDB","SQL","mongoose"]
         }
     ],
     "project":[
@@ -45,9 +45,14 @@
         },   
      {
             "id":"1",
-            "name":"instagram-Clone",
-            "imageLink":"https://res.cloudinary.com/drvjettpz/image/upload/v1721316114/rt5snwfi3gohwhbs9psu.png"
-     }
+            "name":"Myntra-Clone",
+            "imageLink":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721835797/je6hsopwxzizw4qgc7qm.png"
+     },
+     {
+        "id":"2",
+        "name":"Weather-App",
+        "imageLink":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721837774/vr5lt301ff26ovshe715.png"
+ }
         
     ]
     
