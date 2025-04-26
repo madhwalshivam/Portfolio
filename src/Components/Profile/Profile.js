@@ -1,8 +1,8 @@
 import React from "react";
 import profile from "../../Assets/profile.jpg";
 import InstagramIcon from "@mui/icons-material/Instagram";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import XIcon from "@mui/icons-material/X";
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import FacebookIcon from '@mui/icons-material/Facebook';
 
 
@@ -15,12 +15,12 @@ const Profile = () => {
     <InstagramIcon sx={{ fontSize: "40px" }} className="instagram" />
   </a>
 
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <TwitterIcon sx={{ fontSize: "40px" }} className="instagram" />
+  <a href="https://github.com/madhwalshivam" target="_blank" rel="noopener noreferrer">
+    <GitHubIcon sx={{ fontSize: "40px" }} className="instagram" />
   </a>
 
-  <a href="https://x.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <XIcon sx={{ fontSize: "40px" }} className="instagram" />
+  <a href="https://www.linkedin.com/in/shivam-madhwal-b094842b7/" target="_blank" rel="noopener noreferrer">
+    <LinkedInIcon sx={{ fontSize: "40px" }} className="instagram" />
   </a>
 
   <a href="https://www.facebook.com/shivamsingh.shibhu" target="_blank" rel="noopener noreferrer">
