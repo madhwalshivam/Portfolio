@@ -41,8 +41,9 @@ const Projectdetail = () => {
           <div className="projectimgdetail">
             <img src={data?.mainImg} className="projectimg" />
             <div className="projectlink">
-              <span className="projectinkgrey">Project Link</span>-
+              <span className="projectinkgrey"></span>
               {data?.projectLink}
+
             </div>
             <div className="educationblock">
               <div className="educationtitle">Technology</div>

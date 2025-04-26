@@ -37,7 +37,7 @@
 .instagram{
     font-size: 55px;
     &:hover{
-        color:yellow;
+        color:red;
         cursor: pointer;
     }
 }
@@ -51,8 +51,8 @@
     font-size: 24px;
     font-weight: 600;
     &:hover{
-        color:yellow;
-        border-color: yellow;
+        color:red;
+        border-color: red;
         cursor: pointer;
     }
 }
@@ -64,7 +64,7 @@
 }
 .titleportfolio{
     font-size: 24px;
-    color: yellow;
+    color: red;
     letter-spacing: 1px;
 
 }
@@ -73,7 +73,7 @@
 
 }
 .hello{
-    color: yellow;
+    color: red;
     letter-spacing: 1px;
 }
 .content{
@@ -117,11 +117,11 @@
 }
 .numberhomepage{
     font-size: 100px;
-    color: yellow;
+    color: red;
 }
 .experiencedetail{
     font-size: 20px;
-    color: yellow;
+    color: red;
 }
 /*------------------------------------------------------------*/
 .educationblock{
@@ -132,7 +132,7 @@
 }
 .educationtitle{
     font-size: 24px;
-    color: yellow;
+    color: red;
 }
 .educationcontentdesc{
     font-size: 40px;
@@ -141,7 +141,7 @@
     margin-top: 30px;
 }
 .education{
-    color: yellow;
+    color: red;
 
 }
 .coursemonth{
@@ -178,7 +178,7 @@
 .skilltechname{
     padding: 5px;
     width: fit-content;
-    border: 1px solid yellow;
+    border: 1px solid red;
     border-radius: 5px;
 }
 /*----------------------------------------------*/
@@ -200,7 +200,7 @@
      position: absolute;
      top: 40%;
      right: 50%;
-     color: yellow;
+     color:red;
      font-size: 24px;
      font-weight: 600;
      opacity: 0;
@@ -264,7 +264,7 @@ align-items: center;
 font-size: 18px;
 font-weight: 600px;
 text-decoration: none;
-color: yellow;
+color:red;
 cursor: pointer;
 border-radius: 5px;
 background-color: rgb(29,29,29);
@@ -273,7 +273,7 @@ height: 45px;
 width: 100%;
 margin-bottom: 30px;
 &:hover{
-    border: 1px solid yellow;
+    border: 1px solid red;
 
 }
 }

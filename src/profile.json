@@ -1,21 +1,22 @@
+
 {
     
-    "pageTitle":"I'm Shivam Madhwal, MERN Full Stack Developer (WEB/Android)",
-    "description":"Innovative MERN Stack Developer in building scalable and responsive web applications. Proficient in utilizing MongoDB, Express, React, and Node.js to deliver end-to-end solutions that enhance user experiences. Demonstrated ability to lead development projects from conception through deployment with a focus on modern, efficient code and user-centric design.",
+    "pageTitle":"I'm Shivam Madhwal, MERN Full Stack Developer and Flutter Developer (WEB/Android)",
+    "description":"Innovative MERN Stack Developer and flutter Developer in building scalable and responsive web/android & ios applications. Proficient in utilizing MongoDB, Express, React, and Node.js to deliver end-to-end solutions that enhance user experiences. Demonstrated ability to lead development projects from conception through deployment with a focus on modern, efficient code and user-centric design.and As a Flutter Developer, I specialize in building cross-platform mobile applications with a focus on performance, UI/UX, and scalability.",
     "location":"Vaishali, Ghaziabad",
     "phone":"+91 8376006991",
     "mail":"madhwalshivam08@gmail.com",
-    "yearOfExp":"3",
-    "projects":"4+",
-    "Certificates":"3",
+    "yearOfExp":"8+",
+    "projects":"5+",
+    "Certificates":"4",
     "career":[
         {
-            "interval":"July 2024 - Present",
-            "role":"@Vinayak private limited(Internship) : MERN FULL STACK"
+            "interval":"August 2024 - September 2024",
+            "role":"Digital Bheem : MERN FULL STACK"
         },
         {
-            "interval":"2022",
-            "role":"CLASS-XII"
+           "interval":"October 2024 - Present",
+            "role":"Datadrawin Technologies Pvt Ltd (Internship) : Flutter Developer"
         },
         {
             "interval":"2022- present",
@@ -25,7 +26,7 @@
     "skills":[
         {
             "skillName":"Frontend",
-            "skill":["React JS","HTML","CSS","Material UI","Tailwind CSS","JavaScript","Git","GitHUB"]
+            "skill":["React JS","HTML","CSS","Material UI","Flutter","Dart","JavaScript","Git","GitHUB"]
         },
         {
             "skillName":"Backend",
@@ -52,7 +53,17 @@
         "id":"2",
         "name":"Weather-App",
         "imageLink":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721837774/vr5lt301ff26ovshe715.png"
- }
+ },
+ {
+    "id":"3",
+    "name":"GGSIPU-College Management",
+    "imageLink":"https://edinfini.com/wp-content/uploads/2023/08/19_Reasons-of-Choosing-the-Best-online-School-Management-ERP-Software-Solution.jpg"
+},
+{
+    "id":"4",
+    "name":"GGSIPU-College Dispensory System",
+    "imageLink":"https://www.swisslog-healthcare.com/-/media/swisslog-healthcare/images/blog/dispensing-with-automated-dispensing-cabinets.png?rev=c96561c4430f4f72a326d6b5b1be2d0d&w=1900&hash=16AE8BE8E556A1BEEE7BBB497AD4B6A2"
+}
         
     ]
     

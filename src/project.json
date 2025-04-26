@@ -4,7 +4,7 @@
             "name":"Netflix Clone App",
             "desc":"I have created this beautifull Netflix Clone App only Frontent Development. It was very helpfull . So just created that and you can see the images and videos which i have provided for the reference of my work.",
             "mainImg":"https://res.cloudinary.com/mashhuudanny/image/upload/v1714414552/k29iikzd2zsamquhudnv.png",
-            "projectLink":"/",
+            "projectLink": "GITHUB LINK -https://github.com/madhwalshivam/Netflix-clone",
             "technology":[
                 {
                     "skillName":"Frontend",
@@ -24,7 +24,9 @@
             "desc":"I have created this beautifull Myntra App with Frontent from Html and Css.I developed with the help of Myntra website images. So just created that and you can see the images and videos which i have provided for the reference of my work.",
 
             "mainImg":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721836763/pfgznyk3hfkar5dobjyx.png",
-            "projectLink":"/",
+          "projectLink": "GITHUB LINK -https://github.com/madhwalshivam/Myntra-clone",
+
+
             "technology":[
                 {
                     "skillName":"Frontend",
@@ -44,7 +46,7 @@
             "desc":"I have created this beautifull Weather App with Frontent from Html & Css and java script. So just created that and you can see the weather condition which i have provided for the reference of my work.",
 
             "mainImg":"https://res.cloudinary.com/dxiasatlk/image/upload/v1721838415/npqd49d6nyd5gr8h9nep.webp",
-            "projectLink":"/",
+           "projectLink": "GITHUB LINK -https://github.com/madhwalshivam/Weather-App",
             "technology":[
                 {
                     "skillName":"Frontend",
@@ -58,7 +60,45 @@
                 "desc":"I have a learn a lot of things. Learned how to use the rapid api for getting the current weather condition in differant areas."
             }
 
+        },
+        {
+            "name": "GGSIPU-College Management",
+            "desc": "I have developed this complete School Management System using the MERN stack. It includes features like student management, teacher modules, attendance tracking, event management, and circular updates. This project helps streamline school operations and improves communication between students, teachers, and administrators.",
+            "mainImg": "https://user-images.githubusercontent.com/100460788/215342251-f56c40e1-0eb9-4dad-a7f2-27509b32d883.png",
+            "projectLink": "GITHUB LINK -https://github.com/madhwalshivam/GGSIPU",
+            "technology": [
+                {
+                    "skillName": "Full Stack",
+                    "skill": ["MongoDB", "Express.js", "React.js", "Node.js"]
+                }
+            ],
+            "difficulties": {
+                "desc": "I faced challenges while managing user authentication and role-based access control, but I overcame them by studying official documentation and community tutorials."
+            },
+            "learn": {
+                "desc": "Through this project, I learned how to build a complete full-stack application, handle backend APIs securely, connect frontend and backend efficiently, and manage complex database schemas."
+            }
+        },
+        {
+            "name": "GGSIPU-College Dispensary System",
+            "desc": "I am currently developing a College Dispensary Management System using the MERN stack. This system will help manage student medical records, appointment scheduling, medicine inventory, and health reports. The project is still a work in progress, and I am actively working on building a user-friendly interface and robust backend APIs.",
+            "mainImg": "https://displaydispensary.com/media/weltpixel/owlcarouselslider/images/a/g/ag_2.jpg",
+            "projectLink": "GITHUB LINK - soon.......",
+            "technology": [
+                {
+                    "skillName": "Full Stack",
+                    "skill": ["MongoDB", "Express.js", "React.js", "Node.js"]
+                }
+            ],
+            "difficulties": {
+                "desc": "Since the project is in progress, I am facing challenges mainly in designing an efficient database schema for medical records and implementing secure authentication for doctors and students."
+            },
+            "learn": {
+                "desc": "This project is helping me deepen my understanding of backend architecture, database design, secure API integration, and frontend development with React."
+            }
         }
+        
+        
     ]
 }
 
